@@ -24,7 +24,7 @@ class Solution {
 
         Collections.reverse(ans);
 
-        // convert Vector<Integer> to int[]
+        // converting Vector<Integer> to int[]
         int[] result = new int[ans.size()];
         for (int i = 0; i < ans.size(); i++) {
             result[i] = ans.get(i);
