@@ -6,12 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Basics / Traversal / In-place
 
 - 0035 – Search Insert Position  
-- 0268 – Missing Number  
-- 0283 – Move Zeroes  
+- 0268 – [Missing Number](https://github.com/iamclickify/DSA/tree/main/0268-missing-number) 
+- 0283 – [Move Zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes)
 - 0485 – Max Consecutive Ones  
 - 0026 – Remove Duplicates from Sorted Array  
 - 0189 – [Rotate Array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array)
-- 0088 – Merge Sorted Array  
+- 0088 – [Merge Sorted Array](https://github.com/iamclickify/DSA/tree/main/0088-merge-sorted-array)
 - 0118 – Pascal’s Triangle  
 - 0119 – Pascal’s Triangle II  
 
