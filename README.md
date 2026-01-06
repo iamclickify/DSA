@@ -15,7 +15,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 0118 – Pascal’s Triangle  
 - 0119 – Pascal’s Triangle II  
 
----
 
 ## Two Pointers & Sorting
 
@@ -26,7 +25,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 0015 – 3Sum  
 - 0018 – 4Sum  
 
----
 
 ## Prefix Sum / Kadane / Hashing
 
@@ -36,7 +34,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 0229 – Majority Element II  
 - 0128 – Longest Consecutive Sequence  
 
----
 
 ## Sliding Window
 
@@ -46,7 +43,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 1370 – Count Number of Nice Subarrays  
 - 0239 – Sliding Window Maximum  
 
----
 
 ## Binary Search on Answer
 
@@ -56,7 +52,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 1408 – Smallest Divisor Given a Threshold  
 - 0410 – Split Array Largest Sum  
 
----
 
 ## Stack-Based Array Problems
 
@@ -65,7 +60,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 0943 – Sum of Subarray Minimums  
 - 2227 – Sum of Subarray Ranges  
 
----
 
 ## Intervals & Matrix
 
@@ -78,4 +72,3 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 0073 – Set Matrix Zeroes  
 - 0074 – Search a 2D Matrix  
 - 0240 – Search a 2D Matrix II  
-
