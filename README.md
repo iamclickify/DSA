@@ -5,7 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Basics / Traversal / In-place
 
-- 0035 – Search Insert Position  
+- 0035 – [Search Insert Position](https://github.com/iamclickify/DSA/tree/main/0035-search-insert-position) 
 - 0268 – [Missing Number](https://github.com/iamclickify/DSA/tree/main/0268-missing-number) 
 - 0283 – [Move Zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes)
 - 0485 – Max Consecutive Ones  
