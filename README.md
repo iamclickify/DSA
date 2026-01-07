@@ -9,7 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 - 0268 – [Missing Number](https://github.com/iamclickify/DSA/tree/main/0268-missing-number) 
 - 0283 – [Move Zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes)
 - 0485 – [Max Consecutive Ones](https://github.com/iamclickify/DSA/tree/main/0485-max-consecutive-ones)
-- 0026 – Remove Duplicates from Sorted Array  
+- 0026 – [Remove Duplicates from Sorted Array](https://github.com/iamclickify/DSA/tree/main/0026-remove-duplicates-from-sorted-array)  
 - 0189 – [Rotate Array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array)
 - 0088 – [Merge Sorted Array](https://github.com/iamclickify/DSA/tree/main/0088-merge-sorted-array)
 - 0118 – Pascal’s Triangle  
