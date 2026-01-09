@@ -18,7 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 
 ## Two Pointers & Sorting
 
-- 0075 – Sort Colors  
+- 0075 – [Sort Colors](https://github.com/iamclickify/DSA/tree/main/0075-sort-colors)  
 - 0540 – Single Element in a Sorted Array  
 - 0162 – Find Peak Element  
 - 0031 – Next Permutation  
