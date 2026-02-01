@@ -9,16 +9,16 @@ Easy
 4. [Rotate Array — LC 189](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array)  
 5. [Move Zeroes — LC 283](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes)  
 6. [Missing Number — LC 268](https://github.com/iamclickify/DSA/tree/main/0268-missing-number)  
-7. Single Number — LC 136  
+7. [Single Number — LC 136](https://github.com/iamclickify/DSA/tree/main/0136-single-number)
 
 Medium
 1. [Two Sum — LC 1](https://github.com/iamclickify/DSA/tree/main/0001-two-sum)
 2. Subarray Sum Equals K — LC 560  
-3. Maximum Subarray — LC 53  
-4. Majority Element — LC 169  
+3. [Maximum Subarray — LC 53](https://github.com/iamclickify/DSA/tree/main/0053-maximum-subarray)  
+4. [Majority Element — LC 169](https://github.com/iamclickify/DSA/tree/main/0169-majority-element)  
 5. [Sort Colors — LC 75](https://github.com/iamclickify/DSA/tree/main/0075-sort-colors)  
-6. Best Time to Buy and Sell Stock — LC 121  
-7. Rearrange Array Elements by Sign — LC 2149  
+6. [Best Time to Buy and Sell Stock — LC 121](https://github.com/iamclickify/DSA/tree/main/0121-best-time-to-buy-and-sell-stock)  
+7. [Rearrange Array Elements by Sign — LC 2149](https://github.com/iamclickify/DSA/tree/main/2149-rearrange-array-elements-by-sign)  
 8. Longest Consecutive Sequence — LC 128  
 
 Hard
