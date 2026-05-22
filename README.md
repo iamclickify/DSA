@@ -39,6 +39,7 @@ Hard
 | [0031-next-permutation](https://github.com/iamclickify/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamclickify/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -55,6 +56,7 @@ Hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamclickify/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,12 @@ Hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
