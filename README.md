@@ -34,6 +34,7 @@ Hard
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/iamclickify/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/iamclickify/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamclickify/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/iamclickify/DSA/tree/main/0031-next-permutation/) | Medium |
@@ -74,4 +75,8 @@ Hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/iamclickify/DSA/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
