@@ -43,6 +43,7 @@ Hard
 | [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/iamclickify/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
