@@ -67,6 +67,7 @@ Hard
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/iamclickify/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
