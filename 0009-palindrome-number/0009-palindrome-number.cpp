@@ -5,12 +5,11 @@ public:
         int rem;
         int ans = 0;
 
+        if(x<0){
+            return false;
+        }
+
         while(num){
-
-            if(x<0){
-                return false;
-            }
-
             rem = num % 10;
             num = num / 10;
 
@@ -20,11 +19,8 @@ public:
 
             ans = ans*10 + rem;
         }
-        if(ans == x){
-            return true;
-        }
-        else{
-            return false;
-        }
+
+        if(ans==x) return true;
+        else return false;
     }
 };
