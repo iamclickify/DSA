@@ -40,6 +40,7 @@ Hard
 | [0031-next-permutation](https://github.com/iamclickify/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0136-single-number](https://github.com/iamclickify/DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamclickify/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/iamclickify/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -64,6 +65,7 @@ Hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/iamclickify/DSA/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -83,8 +85,17 @@ Hard
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamclickify/DSA/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/iamclickify/DSA/tree/main/0136-single-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
