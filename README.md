@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/iamclickify/DSA/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/iamclickify/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/iamclickify/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/iamclickify/DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/iamclickify/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
+| [1822-sign-of-the-product-of-an-array](https://github.com/iamclickify/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamclickify/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
