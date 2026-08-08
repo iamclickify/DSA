@@ -10,7 +10,7 @@ public:
                 }
             }
 
-            if(count > nums.size()/2){
+            if(count > n/2){
                 return nums[i];
             }
         }
