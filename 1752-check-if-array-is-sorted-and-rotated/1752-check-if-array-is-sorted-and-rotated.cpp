@@ -13,5 +13,5 @@ public:
         else{
             return true;
         }
-    }    
+    }
 };
