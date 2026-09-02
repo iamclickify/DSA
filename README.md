@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/iamclickify/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/iamclickify/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/iamclickify/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/iamclickify/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamclickify/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/iamclickify/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
