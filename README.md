@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamclickify/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/iamclickify/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/iamclickify/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamclickify/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/iamclickify/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/iamclickify/DSA/tree/main/0015-3sum/) | Medium |
+| [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamclickify/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -101,10 +104,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamclickify/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/iamclickify/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iamclickify/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/iamclickify/DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
