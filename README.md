@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/iamclickify/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamclickify/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/iamclickify/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/iamclickify/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/iamclickify/DSA/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamclickify/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/iamclickify/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamclickify/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/iamclickify/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/iamclickify/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/iamclickify/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamclickify/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/iamclickify/DSA/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/iamclickify/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/iamclickify/DSA/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamclickify/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
