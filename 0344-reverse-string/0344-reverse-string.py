@@ -12,6 +12,4 @@ class Solution:
             s[j] = temp
 
             i = i + 1
-            j = j - 1
-
-        return s
+            j = j - 1 
