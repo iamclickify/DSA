@@ -31,6 +31,4 @@ class Solution:
             if f == 0 or nums[f] != nums[f-1]:
                 self.twosum(f, nums, result)
 
-            f = f + 1
-
         return result
