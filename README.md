@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/iamclickify/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/iamclickify/DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamclickify/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/iamclickify/DSA/tree/main/3360-stone-removal-game/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamclickify/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -131,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/iamclickify/DSA/tree/main/0148-sort-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3360-stone-removal-game](https://github.com/iamclickify/DSA/tree/main/3360-stone-removal-game/) | Easy |
 <!---LeetCode Topics End-->
